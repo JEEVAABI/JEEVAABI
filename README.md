@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JEEVAABI
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning new keys in ML,DL,CNN,etc.
+- 🌱 I’m currently learning new models on field of ML,DL,CNN,etc.
 - 📫 reach me jeevaabishake@gmail.com
 
 <!---
